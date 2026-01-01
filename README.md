@@ -12,7 +12,6 @@ I have a strong academic background with hands-on experience in machine learning
 
 **Guru Nanak Dev Engineering College, Ludhiana**  
 **M.Tech – Computer Science and Engineering**  
-📊 CGPA: **8.8** (Till 2nd Semester)  
 📅 2024 – Present  
 
 **Guru Nanak Dev Engineering College, Ludhiana**  
@@ -49,11 +48,11 @@ I have a strong academic background with hands-on experience in machine learning
 
 ---
 
-## 🏢 Experience
+##  Experience
 
 ### Software Development Centre (SDC)  
 **Software Developer Trainee**  
-📍 Ludhiana, India | 📅 July 2022 – Dec 2022  
+📍 Ludhiana, India |  July 2022 – Dec 2022  
 
 - Developed internal web-based systems using the Frappe framework  
 - Successfully delivered the Construction and Maintenance Cell (CMC) portal currently in active use  
@@ -61,13 +60,13 @@ I have a strong academic background with hands-on experience in machine learning
 
 ---
 
-## 🏆 Professional Activities
+##  Professional Activities
 - Active member of the **Computer Society of India (CSI)** during M.Tech  
 - Participated in technical and academic activities  
 
 ---
 
-## 🔧 Technical Skills
+##  Technical Skills
 
 - **Programming:** Python  
 - **Databases:** MySQL  
